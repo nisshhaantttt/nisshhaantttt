@@ -1,18 +1,22 @@
 ## 👋 Hi, I'm Nishant
 
-**Aspiring Business Analyst | Turning Data into Business Insights 📊**
+**Aspiring Analytics Professional | Excel • SQL • Interactive Dashboards 📊**
 
 📧 Email Me 👉 *[nishantrawat023@gmail.com](mailto:nishantrawat023@gmail.com)*
 
 ---
 
-* 🔭 Currently building: **End-to-End Business Analysis Projects (Data → Insights → Decisions)**
-* 🌱 Learning: **SQL | Business Metrics | Stakeholder Thinking**
-* 👯 Open to: **Business Analyst Internships & Projects**
-* 💬 Ask me about: **KPI Dashboards, Sales Analysis, Business Insights**
-* 📊 Skills: **Requirement Understanding | Data Analysis | Dashboarding | Reporting**
-* 📫 Reach me: *[nishantrawat023@gmail.com](mailto:nishantrawat023@gmail.com)*
-* ⚡ Fun fact: I focus on insights that help businesses grow 📈
+👋 Hi, I'm Nishant
+
+Aspiring Analytics Professional | Excel • SQL • Interactive Dashboards 📊
+
+🔭 Currently building: Data Analytics & Interactive Dashboard Projects
+🌱 Learning: SQL | Excel Automation | Data Visualization | Business Metrics
+🤝 Open to: Analytics Internships & Projects
+💬 Ask me about: Excel, SQL, KPI Dashboards, Sales Analytics
+📊 Skills: Excel | SQL | Interactive Dashboards | Data Analysis | Reporting
+📫 Reach me: nishantrawat023@gmail.com
+⚡ Fun fact: I enjoy turning raw data into clear, actionable insights.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisshhaantttt&theme=radical" />
