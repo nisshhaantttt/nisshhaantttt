@@ -10,13 +10,13 @@
 
 Aspiring Analytics Professional | Excel • SQL • Interactive Dashboards 📊
 
-🔭 Currently building: Data Analytics & Interactive Dashboard Projects
-🌱 Learning: SQL | Excel Automation | Data Visualization | Business Metrics
-🤝 Open to: Analytics Internships & Projects
-💬 Ask me about: Excel, SQL, KPI Dashboards, Sales Analytics
-📊 Skills: Excel | SQL | Interactive Dashboards | Data Analysis | Reporting
-📫 Reach me: nishantrawat023@gmail.com
-⚡ Fun fact: I enjoy turning raw data into clear, actionable insights.
+**🔭 Currently building: Data Analytics & Interactive Dashboard Projects**
+**🌱 Learning: SQL | Excel Automation | Data Visualization | Business Metrics**
+**🤝 Open to: Analytics Internships & Projects**
+**💬 Ask me about: Excel, SQL, KPI Dashboards, Sales Analytics**
+**📊 Skills: Excel | SQL | Interactive Dashboards | Data Analysis | Reporting**
+**📫 Reach me: nishantrawat023@gmail.com**
+**⚡ Fun fact: I enjoy turning raw data into clear, actionable insights.**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisshhaantttt&theme=radical" />
