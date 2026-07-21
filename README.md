@@ -18,7 +18,7 @@ Aspiring Analytics Professional | Excel • SQL • Interactive Dashboards 📊
 
 **💬 Ask me about: Excel, SQL, Dashboards**
 
-**📫 Reach me: nishantrawat023@gmail.com**
+**📫 Reach me: nishantwork1234@gmail.com**
 
 **⚡ Fun fact: I enjoy turning raw data into clear, actionable insights.**
 
