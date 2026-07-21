@@ -2,7 +2,7 @@
 
 **Aspiring Analytics Professional | Excel • SQL • Interactive Dashboards 📊**
 
-📧 Email Me 👉 *[nishantrawat023@gmail.com](mailto:nishantrawat023@gmail.com)*
+📧 Email Me 👉 *[nishantwork1234@gmail.com](mailto: nishantwork1234@gmail.com)*
 
 ---
 
